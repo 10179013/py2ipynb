@@ -1,0 +1,4 @@
+*.pyc
+parameters/*
+*.log
+output/*
